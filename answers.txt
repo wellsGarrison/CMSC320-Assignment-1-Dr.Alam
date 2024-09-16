@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: data science could be used in healthcare to measure the effectivness of various drugs. 
+
