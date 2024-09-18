@@ -9,3 +9,7 @@ Answer: data science could be used in healthcare to measure the effectivness of 
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging applies commits from one branch onto another, like adding a new feature into the rest of the code. rebasing adjusts the base of a branch to a more recent spot, say a new feature is added to the main section and you want you current branch to have that feature. 
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my data visualization skills. 
